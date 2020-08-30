@@ -1,5 +1,9 @@
 # Task Manager --Slack Application
 
-// attach the video here 
+// attach the details here
+
+sdf
+
+![Demo for Task Manager App](taskmanager.gif)
 
 
