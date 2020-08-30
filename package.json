@@ -1,0 +1,24 @@
+{
+  "name": "task-manager-app",
+  "version": "0.0.1",
+  "description": "A Task Manager app for Slack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^1.7.0",
+    "nedb" : "^1.8.0"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "author": "Ruchik Chaudhari",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "taskmanager",
+    "bolt"
+  ]
+}
