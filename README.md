@@ -1,12 +1,9 @@
 # Task Manager --Slack Application
 
-The Task Manager Application is build with the help of bolt framework.
-When the user interacts with the application the events are triggered
-and posted here. The server responds to those events as needed. With 
-the help of this application the user can create, delete and commit 
-to tasks as required. The apllication also notifies all the users' 
-when a new task is created by posting a messagae with the information
-of when it's due who created it. 
+- Built a stateful Slack App which allows users to create, update, and delete tasks using Bolt, Node.js, and a NeDB data store 
+- The app enhances the Slack user experience by organizing the delegation of tasks. Channels get notified when a task is created and users can commit to a task according to their availability
+
+# Demo
 
 ![Demo for Task Manager App](taskmanager.gif)
 
