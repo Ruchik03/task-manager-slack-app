@@ -3,9 +3,9 @@
 * When the user interacts with the application the events are triggered
 * and posted here. The server responds to those events as needed. With 
 * the help of this application the user can create, delete and commit 
-* to tasks as required. The apllication also notifies all the users' 
+* to tasks as required. The application also notifies all the users 
 * when a new task is created by posting a messagae with the information
-* of when it's due who created it. 
+* of when it's due and who created it. 
 *
 * @author: Ruchik Chaudhari
 * Date: 07/20/20
